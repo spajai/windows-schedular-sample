@@ -1,8 +1,8 @@
-# windows-schedular-sample
+# windows-scheduler-sample
 bat script to schedule any executable script on windows platform
 
 * Edit script and edit the template top execute the required script
-* to test ./python-schedular (can be renamed as well) (scope to enhance as well)
+* to test ./python-scheduler (can be renamed as well) (scope to enhance as well)
 
 ```
 @echo off
